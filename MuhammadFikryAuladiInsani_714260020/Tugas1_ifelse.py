@@ -16,7 +16,6 @@ Prodi = (input("Masukan Prodi Anda :"))
 NPM = (input("Masukan NPM Anda :"))
 Nilai = int(input("Masukan Nilai Anda : "))
 
-
 if Nilai <= 60:
     print("Maaf, Anda dinyatakan Belum Lulus")
     print("Anda Mendapat Nilai (E)")
@@ -41,5 +40,5 @@ else:
 if Nilai < 0 or Nilai > 100:
     print("Nilai tidak boleh kurang dari 0 atau lebih dari 100.")
 print("===================================================")
-print("Terima Kasih Sudah Meluangkan Waktunya")
+print("Terima Kasih Sudah Meluangkan Waktunya :)")
 print("===================================================")
